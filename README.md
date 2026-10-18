@@ -378,12 +378,7 @@ The main focus areas include:
 
 ## 👨‍💻 Developer
 
-**Developer:** [Your Name]
-
-**Live Demo:** [YOUR_FIREBASE_LIVE_URL]
-
-**GitHub Repository:** [YOUR_GITHUB_REPOSITORY_URL]
-
+**Developer:** [BERAT KARABULUT]
 ---
 
 *Onyx — Discover games, explore genres, and find your next favorite title.*
