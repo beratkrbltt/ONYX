@@ -327,7 +327,6 @@ VITE_RAWG_API_KEY=your_rawg_api_key
 
 Use the API key and environment variable name expected by your actual API configuration.
 
-**Security note:** Vite variables prefixed with `VITE_` are exposed to client-side code. They are useful for configuration, but they do not keep an API key secret. For stronger key protection, use a backend or server-side proxy. Never commit real credentials to your public repository.
 
 ### 5. Start the development server
 
