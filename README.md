@@ -12,7 +12,7 @@ The project is deployed using **Firebase Hosting**.
 
 ## 🎥 Preview
 
-![Onyx Preview](./preview.gif)
+![Onyx Preview](./onyx.gif)
 
 *Replace `preview.gif` with your actual project preview file.*
 
