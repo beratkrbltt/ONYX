@@ -21,7 +21,7 @@ The project is deployed using **Firebase Hosting**.
 ## 🌐 Live Demo
 
 **Onyx:**  
-[Live Demo](YOUR_FIREBASE_LIVE_URL)
+[Live Demo](https://onyx-gamehub.web.app/)
 
 ---
 
