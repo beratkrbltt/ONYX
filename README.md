@@ -251,8 +251,6 @@ src/
 └── main.tsx
 ```
 
-*Note: This structure is illustrative. Adjust the directory names to match the actual repository.*
-
 The project separates UI components, Redux state management, and TypeScript definitions to support code organization and maintainability.
 
 ---
@@ -304,7 +302,7 @@ Onyx is deployed using **Firebase Hosting**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/beratkrbltt/ONYX
+git clone https://github.com/beratkrbltt/ONYX.git
 ```
 
 ### 2. Navigate to the project directory
