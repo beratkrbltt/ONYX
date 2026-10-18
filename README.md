@@ -14,8 +14,6 @@ The project is deployed using **Firebase Hosting**.
 
 ![Onyx Preview](./onyx.gif)
 
-*Replace `preview.gif` with your actual project preview file.*
-
 ---
 
 ## 🌐 Live Demo
