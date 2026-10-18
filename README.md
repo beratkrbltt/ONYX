@@ -290,8 +290,7 @@ The RAWG API provides the game data, Redux Toolkit manages application state, an
 Onyx is deployed using **Firebase Hosting**.
 
 **Production URL:**  
-[YOUR_FIREBASE_LIVE_URL](YOUR_FIREBASE_LIVE_URL)
-
+[https://onyx-gamehub.web.app/](https://onyx-gamehub.web.app/)
 ---
 
 ## 💻 Installation
@@ -305,7 +304,7 @@ Onyx is deployed using **Firebase Hosting**.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/beratkrbltt/ONYX
 ```
 
 ### 2. Navigate to the project directory
@@ -376,7 +375,7 @@ The main focus areas include:
 
 ## 👨‍💻 Developer
 
-**Developer:** [BERAT KARABULUT]
+**Developer:** Berat Karabulut
 ---
 
 *Onyx — Discover games, explore genres, and find your next favorite title.*
